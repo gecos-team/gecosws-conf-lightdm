@@ -1,0 +1,26 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de Gecos v2
+
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: gecosws-conf-lightdm
+
+# Autor 
+author: Jose Manuel Rodriguez <jmrodriguez@gruposolutia.com>
+
+# Priority
+priority: optional
+
+# Section
+section: metapackages
+
+shortdesc: "Gecos LightDM Configuration package"
+
+longdesc: "This package contains GECOS LightDM configuration files."
+
+# Versión del paquete
+version: 1.0
+
+# Cambios en esta versión
+changes:
+    - initial release
